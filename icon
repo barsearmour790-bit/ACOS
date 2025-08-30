@@ -1,0 +1,10 @@
+/your-project-directory
+  ├── index.html
+  ├── style.css
+  ├── /images
+      ├── logo.png
+      ├── hero-image.jpg
+      ├── mission1.jpg
+      ├── mission2.jpg
+      ├── mission3.jpg
+      ├── icon.png
